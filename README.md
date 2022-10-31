@@ -13,3 +13,6 @@
 ##
   
 ![Snake animation](https://github.com/RuanaRodriguez/ruanarodriguez/blob/output/github-contribution-grid-snake.svg)
+
+  
+                                                          Feito com ❤️ e JavaScript
