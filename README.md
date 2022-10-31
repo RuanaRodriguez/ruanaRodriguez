@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Atualmente estou estagiando na Avanade
 - ⚡ Hoje trabalho com full-stack
-- 📚 estudando TypeScript, ReactJs...
+- 📚 Estudando TypeScript, ReactJs...
 - ✨ Graduanda em ADS e Cloud Computing
 <div align="center">
   <a href="https://github.com/RuanaRodriguez">
