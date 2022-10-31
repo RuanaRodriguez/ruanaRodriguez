@@ -1,4 +1,4 @@
-### Hi, eu sou a Ruana Rodrigues 👋😀
+## Olá! Eu sou a Ruana Rodrigues 👋😀
 
 - 🔭 Atualmente estou estagiando na Avanade
 - 🌱 Hoje, trabalho com full-stack
