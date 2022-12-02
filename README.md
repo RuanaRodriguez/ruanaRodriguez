@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Ruana Rodrigues 👋😀
 
 - 👩🏻‍💻 Full-Stack Developer at Avanade Brazil
-- ⚡ Hoje trabalho com full-stack
-- 📚 Estudando TypeScript, ReactJs...
+- 📚 Estudando TypeScript, ReactJs, C#, .Net...
 - ✨ Graduanda em ADS e Cloud Computing
 <div align="center">
   <a href="https://github.com/RuanaRodriguez">
